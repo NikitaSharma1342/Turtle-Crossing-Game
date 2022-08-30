@@ -7,7 +7,7 @@ from scoreboard import Scoreboard
 screen = Screen()
 screen.setup(width=600, height=500)
 screen.bgcolor('black')
-screen.title("Make the turtle Cross")
+screen.title("Make the Turtle Cross")
 screen.tracer(0)
 
 player = Player()
