@@ -18,7 +18,7 @@ This game is created with the help of libraries and modules such as :
 
 As soon as the player runs the code, a the window with turtle on starting line opens. The sole goal is to cross the path to reach the finish line without colliding with the cars. Once the player reaches the finish line, the player reaches to next level. With each level, the speed of the car increases. The turtle moves only in one direction, i.e. forward, with the space key.
 
-Each level is like a score, if the player surpass the highest level reached the players level will be the highest level. How good player the player is, is determined by number of levels.
+Each level is like a score, if the player surpass the highest level reached the players level will be the highest level, which is store in the file named as `data.txt`. How good player the player is, is determined by number of levels.
 
 # Screenshots
 * Opening Window
